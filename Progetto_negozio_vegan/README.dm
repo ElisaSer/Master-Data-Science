@@ -1,4 +1,4 @@
-Progetto: Software gestionale per negozio di prodotti vegani
+### Progetto: Software gestionale per negozio di prodotti vegani
 
 Sviluppi di un piccolo software gestionale per un negozio di prodotti vegani. Il software ha le seguenti funzionalità: 
 Registra nuovi prodotti, con nome, quantità, prezzo di vendita e prezzo di acquisto. 
