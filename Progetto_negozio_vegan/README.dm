@@ -1,6 +1,6 @@
 ### Progetto: Software gestionale per negozio di prodotti vegani
 
-Sviluppi di un piccolo software gestionale per un negozio di prodotti vegani. Il software ha le seguenti funzionalità: 
+Sviluppo di un piccolo software gestionale per un negozio di prodotti vegani. Il software ha le seguenti funzionalità: 
 Registra nuovi prodotti, con nome, quantità, prezzo di vendita e prezzo di acquisto. 
 Elenca tutti i prodotti presenti. 
 Registra le vendite effettuate. 
@@ -13,8 +13,8 @@ e i casi non validi sono gestiti con eccezioni e messagi di errore.
 Durante un acquisto, viene verificato che i prodotti acquistati siano effettivamente presenti nel magazzino
 in caso negativo si mostra all'utente un messaggio di errore.
 
-Durante l'aggiunta in magazzino, si verifica che il prodotto da aggiungere è già presente magazzino
-nel caso positivo viene aggiunta la quantità a quella già presente in magazzino.
+Durante l'aggiunta in magazzino, si verifica che il prodotto da aggiungere è già presente in magazzino
+e nel caso positivo viene aggiunta la quantità a quella già presente in magazzino.
 
 ESEMPIO DI INTERAZIONE CON IL PROGRAMMA
 
